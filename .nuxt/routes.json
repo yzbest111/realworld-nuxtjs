@@ -1,0 +1,43 @@
+[
+  {
+    "path": "/",
+    "component": "/Users/mac/Desktop/realworld-nuxtjs/pages/layout/index.vue",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "/Users/mac/Desktop/realworld-nuxtjs/pages/home/index.vue"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "/Users/mac/Desktop/realworld-nuxtjs/pages/login/index.vue"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "/Users/mac/Desktop/realworld-nuxtjs/pages/login/index.vue"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "/Users/mac/Desktop/realworld-nuxtjs/pages/profile/index.vue"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "/Users/mac/Desktop/realworld-nuxtjs/pages/settings/index.vue"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "/Users/mac/Desktop/realworld-nuxtjs/pages/editor/index.vue"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "/Users/mac/Desktop/realworld-nuxtjs/pages/article/index.vue"
+      }
+    ]
+  }
+]
