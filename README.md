@@ -30,7 +30,7 @@
 
 ```
 
-#### 自动化部署（以github action举例）
+#### 自动化部署（利用pm2，以github action举例）
 
 - 环境准备
   + linux服务器
